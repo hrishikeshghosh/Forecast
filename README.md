@@ -5,7 +5,7 @@ Api Used: https://www.weatherapi.com/
 
 Created using react js and react hooks
 
-Deployed on Netlify fro preview: https://sharp-shockley-1199c6.netlify.app
+Deployed on Netlify for preview: https://sharp-shockley-1199c6.netlify.app
 
 Screenshots:
 
