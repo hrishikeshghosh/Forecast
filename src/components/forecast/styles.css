@@ -1,0 +1,43 @@
+
+.forecast{
+   width: 8vw;
+    padding: 6px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.forecast-container{
+    width: 100%;
+    text-align: left;
+}
+.forecast-condition, .maxmin{
+   width: 100%;
+}
+.forecase-image{
+    width: 30px;
+    height: 30px;
+}
+.maxmin{
+    display: flex;
+    margin-top: 8px;
+}
+
+.forecastDate, .forecastmax{
+    font-size: 1vw;
+ color: rgb(223, 223, 223);
+ font-family: sans-serif;
+ font-weight: lighter;
+}
+.forecastmin{
+    font-size: 0.8vw;
+    margin-left: 8px;
+    color: rgb(223, 223, 223);
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+ .forecast-text{
+    font-size: 1vw;
+    color: rgb(223, 223, 223);
+    font-family: sans-serif;
+    font-weight: lighter;
+  
+ }
